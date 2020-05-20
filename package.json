@@ -1,9 +1,13 @@
 {
   "name": "aws-cloudfront-invalidation-component",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Serverless component to invalidate CF distributions",
   "main": "index.js",
-  "repository": "git@github.com:Negan1911/aws-cloudfront-invalidation-component.git",
+  "bugs": {
+    "url": "https://github.com/Negan1911/aws-cloudfront-invalidation-component/issues"
+  },
+  "homepage": "https://github.com/Negan1911/aws-cloudfront-invalidation-component",
+  "repository": "https://github.com/Negan1911/aws-cloudfront-invalidation-component",
   "author": "Nahuel Veron <nahuelav96@gmail.com>",
   "license": "MIT",
   "dependencies": {
